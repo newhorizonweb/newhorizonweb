@@ -39,11 +39,11 @@ With a passion for creating beautiful, user-friendly experiences, I strive to bl
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,mysql" alt="PHP, MySQL" />
+  <img src="https://skillicons.dev/icons?i=ps,ai,pr,figma" alt="PhotoShop, Illustrator, Premiere Pro, Figma, Canva, Gimp" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ai,pr,figma" alt="PhotoShop, Illustrator, Premiere Pro, Figma, Canva, Gimp" />
+  <img src="https://skillicons.dev/icons?i=php,mysql" alt="PHP, MySQL" />
 </p>
 
 <div align="center">
