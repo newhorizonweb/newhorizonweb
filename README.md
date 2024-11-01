@@ -77,8 +77,8 @@ With a passion for creating beautiful, user-friendly experiences, I strive to bl
     <a href="https://github.com/newhorizonweb/keepitfit" align="left">
       <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=newhorizonweb&repo=keepitfit&title_color=b963ff&text_color=ffffff&icon_color=b963ff&bg_color=14063e&hide_border=false&border_color=b963ff&locale=en" />
     </a>
-    <a href="https://github.com/newhorizonweb/Uverit-Logo-Test" align="right">
-      <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=newhorizonweb&repo=Uverit-Logo-Test&title_color=b963ff&text_color=ffffff&icon_color=b963ff&bg_color=14063e&hide_border=false&border_color=b963ff&locale=en" />
+    <a href="https://github.com/newhorizonweb/Uverit-Converter" align="right">
+      <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=newhorizonweb&repo=Uverit-Converter&title_color=b963ff&text_color=ffffff&icon_color=b963ff&bg_color=14063e&hide_border=false&border_color=b963ff&locale=en" />
     </a>
   </div>
   
